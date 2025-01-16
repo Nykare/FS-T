@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" version="1.1" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #7dc0af;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: #eeedee;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.3, SVG Export Plug-In . SVG Version: 1.2.0 Build 164)  -->
+  <g>
+    <g id="Layer_1">
+      <path class="cls-2" d="M54.5,18.5v35c0,2.8-2.2,5-5,5H10.5c-2.8,0-5-2.2-5-5V6.5c0-2.8,2.2-5,5-5h27"/>
+      <path class="cls-2" d="M37.5,1.5v12c0,2.8,2.2,5,5,5h12L37.5,1.5Z"/>
+      <polyline class="cls-1" points="41.5 28 25 44.5 18.5 38"/>
+    </g>
+  </g>
+</svg>
