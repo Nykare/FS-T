@@ -13,7 +13,7 @@ body{text-align:left;color:#444;font-size:14px;font-weight:400;line-height:1;cur
 .button.disabled:hover{transform:none;box-shadow:none;}
 .button.red{background:#c93333;background:linear-gradient(45deg, #c93333 0%, #ed6f6f 100%);}
 .button.red:hover{transform:translateY(-3px);box-shadow:0px 20px 50px #c9333355;}
-.button.outlined{background:transparent;border:1px solid #ddd;color:#6e7875;font-size:14px;font-weight:500;padding:20px 25px;border-radius:10px;margin:15px 0 0 0;cursor:pointer;transition:linear 100ms;height:54px;text-shadow:none;}
+.button.outlined{background:transparent;border:1px solid #ddd;color:#6e7875;font-weight:500;border-radius:10px;margin:15px 0 0 0;cursor:pointer;transition:linear 100ms;text-shadow:none;}
 .button.outlined:hover{border:1px solid #000;background:#000;color:#fff;}
 
 .frame{width:100%;max-width:1200px;padding:40px;margin:0 auto;}
